@@ -1,2 +1,1 @@
-# Aula-15-Modulo-01
-javascript timers
+# Aula 15 - Funções setTimeout e setInterval
